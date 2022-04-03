@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment2-SMD</string>
+    <string name="my_first_book_of">My First Book of</string>
+    <string name="button">Button</string>
+    <string name="next">NEXT</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+    <string name="ten">Ten</string>
+</resources>
